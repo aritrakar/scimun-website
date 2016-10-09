@@ -1,6 +1,6 @@
-# Scimun-website
+# SCIMUN'17 Website
 # Author: Aritro Kar
-This repository should contain the following:
+This repository should contain the following: <br>
 1. index.html (Main part)
 2. homepage.html (Base of index.html)
 3. about.html (About Us page)
