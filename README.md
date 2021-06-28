@@ -1,5 +1,5 @@
 # SCIMUN'17 Website
-# Author: Aritro Kar
+# Author: Aritra Kar
 This repository should contain the following: <br>
 1. index.html (Main part) <br>
 2. homepage.html (Base of index.html) <br>
